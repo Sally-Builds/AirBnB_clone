@@ -1,0 +1,10 @@
+/* styles/2-footer.css */
+footer {
+    height: 60px;
+    width: 100%;
+    position: fixed;
+    background-color: #00FF00;
+    bottom: 0;
+    text-align: center;
+    line-height: 60px;
+}
